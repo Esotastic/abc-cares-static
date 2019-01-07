@@ -1,7 +1,7 @@
-$primary-color: #444;
-$secondary-color: #eece1a;
+$primary-color: rgb(216, 217, 230);
+$secondary-color: rgb(20, 0, 201);
 $show-home-image: true;
-$home-image: url(../img/analyzing-artist-browsing-416396.jpg);
+$home-image: url(..\img\architecture-building-city-439416.jpg);
 $background-opacity: 0.9;
 
 @mixin easeOut {
